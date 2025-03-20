@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: g9ockd99s-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/g9ockd99s-dotnet-basic
